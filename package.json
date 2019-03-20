@@ -5,7 +5,7 @@
   "homepage": "http://strophe.im/strophejs",
   "repository": {
     "type": "git",
-    "url": "git://github.com/strophe/strophejs.git"
+    "url": "git://github.com/jonrmar/strophejs.git"
   },
   "keywords": [
     "xmpp",
